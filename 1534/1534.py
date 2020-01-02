@@ -15,6 +15,5 @@ while True:
                     print(3, end="")
             print()
     except EOFError:
-        print()
         break
     
